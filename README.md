@@ -1,0 +1,2 @@
+# EveryDayNotes
+:bluebook:EveryDayNotes
